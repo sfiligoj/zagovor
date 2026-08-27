@@ -1,0 +1,4 @@
+.typst-bin/
+.idea/
+/target/
+.DS_Store
